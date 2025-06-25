@@ -1,5 +1,12 @@
 # AnLux
+DX12 渲染引擎。计划完成渲染 + 实时路径追踪。
 
-# Plan
-现在是2025.6.22. 我想要学习dx12以及dxr，在毕业前构建一个实时光线追踪&实时路径追踪渲染器。我能做到吗？
-加油呀安安。
+# Env
+环境配置参见[xmake+vcpkg.md](Docs/env/xmake+vcpkg.md)
+
+# Record
+## 2025-6-23
+完成环境配置。
+# 2025-6-25
+完成Hello-Triangle.  
+笔记 [dx12_0](Docs/tutorial/dx12_0/dx12_0.md)
